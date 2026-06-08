@@ -1,0 +1,6 @@
+codigo;nome;categoria;preco;estoque;descricao;status
+PROD010;Notebook Lenovo IdeaPad;Informática;2800.00;10;Notebook i5 8GB 256GB SSD;ativo
+PROD011;Webcam Logitech C920;Periféricos;350.00;25;Webcam Full HD 1080p USB;ativo
+PROD012;SSD Kingston 480GB;Informática;220.00;40;SSD SATA III 480GB;ativo
+PROD013;Impressora HP LaserJet;Escritório;850.00;6;Impressora Laser Monocromática;ativo
+PROD014;Fone de Ouvido Sony;Áudio;290.00;18;Fone Bluetooth com cancelamento de ruído;ativo
